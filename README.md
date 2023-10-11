@@ -28,9 +28,9 @@ The process involved in achieving this
 
 
 
-View SQL codes here: 
+View SQL codes here: https://github.com/Damzy/Data/blob/main/Airline%20Passengers.sql
 
-Power BI was used for visualizations. View dashboard: https://www.novypro.com/project/airline-passengers-satisfaction-1
+Power BI was used for visualizations. View dashboard:
 
 
 
