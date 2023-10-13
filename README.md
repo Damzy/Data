@@ -30,7 +30,7 @@ The process involved in achieving this
 
 View SQL codes here: https://github.com/Damzy/Data/blob/main/Airline%20Passengers.sql
 
-Power BI was used for visualizations. View dashboard:
+Power BI was used for visualizations. View dashboard: https://app.powerbi.com/links/a2IfKmpp7U?ctid=5d24ae01-d811-42f8-9e19-b1e3705a1ffc&pbi_source=linkShare&bookmarkGuid=1fc2fa9f-bb9e-4beb-b18d-4dda34ad2bd8
 
 
 
